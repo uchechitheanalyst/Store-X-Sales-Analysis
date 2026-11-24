@@ -21,7 +21,7 @@
 - Considering the store’s location to Canada, the sales experienced in Canada is minimal.
 - Revenue generation does not translate to a healthy return on sales.
 ## Recommendations
-- The reason for a decline in the patronage of business customers should be investigated.
+- The management should reach out to business customers and identify the factors contributing to a decline in their patronage.
 - Advert placements and campaigns should be focused on Australia, India, and UAE as they promise to have leads.
 ## Tool
 - Power BI
