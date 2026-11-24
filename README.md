@@ -1,3 +1,5 @@
 # Store X Sales Analysis
 ## Dashboards
-<img></img>
+### Overall Sales
+
+
